@@ -1,3 +1,5 @@
 h1 {
     font-family: "Lucida Grande", "Trebuchet MS", sans-serif;
+    border-radius: 3px;
+    background-color: #ffa587;
 }
